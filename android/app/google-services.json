@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "541491690933",
+    "firebase_url": "https://profilelogin-6f095.firebaseio.com",
+    "project_id": "profilelogin-6f095",
+    "storage_bucket": "profilelogin-6f095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541491690933:android:4f535cd232d74c9f",
+        "android_client_info": {
+          "package_name": "com.example.loginui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541491690933-bn3u94d9o8urjqanq41a9htutkuupoia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginui",
+            "certificate_hash": "c2511a07d7b5fa67f63c647b0fd0b35f3585fca4"
+          }
+        },
+        {
+          "client_id": "541491690933-03dk6lsm0ru583jkbl1ualhlg1p13qip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx-Ifp2ZlrVHYbOFVlQPzSkETcwoJsuHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541491690933-03dk6lsm0ru583jkbl1ualhlg1p13qip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
